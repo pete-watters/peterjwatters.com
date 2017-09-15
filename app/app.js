@@ -21,7 +21,7 @@ function() {
 
 	var AboutModel = new Backbone.Model({
 											name: 'Peter Watters',
-											description: '<p>ull stack developer, UX specialist and JavaScript enthusiast. A fully qualified engineer and hobbyist coder turned craftsman with a focus on clean scalable code and elegant but intuitive UX.</p>',
+											description: '<p>Full stack developer, UX specialist and JavaScript enthusiast. A fully qualified engineer and hobbyist coder turned craftsman with a focus on clean scalable code and elegant but intuitive UX.</p>',
 											contact : 'My preferred method of contact is email and you can reach me at: <a href="mailto:peter@peterjwatters.com" target="_top">peter@peterjwatters.com</a>',
 											resume_link : 'file.pdf'
 										});
